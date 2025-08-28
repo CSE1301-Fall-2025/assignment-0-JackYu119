@@ -29,13 +29,93 @@ public class RobotInstructions  {
 		 * You will add instructions at the end of the code to cause the support.robot to move
 		 * as you desire.
 		 */
-		robot.forward(60);
-		robot.turnRight(90);
-		robot.forward(60);
+		robot.forward(160);
 		robot.turnLeft(90);
-		robot.forward(23);
+		robot.forward(15);
 		robot.turnRight(90);
+		robot.forward(30);
+		robot.turnRight(90);
+		robot.forward(30);
+		robot.turnRight(90);
+		robot.forward(30);
+		robot.turnRight(90);
+		robot.forward(30);
+		robot.turnRight(60);
 		robot.forward(80);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(53);
+		robot.turnLeft(150);
+		robot.forward(80);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(80);
+		robot.turnLeft(150);
+		robot.forward(74);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(60);
+		robot.turnLeft(150);
+		robot.forward(80);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(75);
+		robot.turnLeft(150);
+		robot.forward(80);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(64);
+		robot.turnLeft(150);
+		robot.forward(80);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(80);
+		robot.turnLeft(150);
+		robot.forward(80);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(70);
+		robot.turnLeft(150);
+		robot.forward(80);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(75);
+		robot.turnLeft(150);
+		robot.forward(80);
+		robot.turnRight(30);
+		robot.forward(30);
+		robot.turnRight(130);
+		robot.forward(30);
+		robot.turnRight(30);
+		robot.forward(73);
+
+
+
+		
 	}
 
 }
